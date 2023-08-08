@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyyreactgraphql",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 30,
+      "apiKeyExpirationDate": "2023-09-07T10:11:45.517Z",
+      "keyDescription": "graphql api"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
